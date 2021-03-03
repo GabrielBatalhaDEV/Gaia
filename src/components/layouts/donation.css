@@ -1,0 +1,83 @@
+.campaing{
+    margin: auto;
+    border-bottom: gray solid 1px;
+    width: 80%;
+}
+
+.campaing-image{
+    border: #9be8bb solid;
+    border-radius:100%;
+    overflow: hidden;
+    margin: auto;
+    width: 70%;
+}
+
+.campaing-text{
+    padding: 10px;
+}
+
+.form-gaia{
+
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+.donation{
+    padding: 20px;
+    margin: auto;
+}
+
+.input-gaia{
+    background-color: #e9ecef;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.input-gaia:focus{
+    outline: none;
+    box-shadow: 0px 0px 5px #9be8bb;
+    border:1px solid #2ecc71;
+    border-radius: 10px;
+}
+.input-gaia:hover{
+    outline: none;
+    box-shadow: 2px 2px 10px #9be8bb;
+    border:1px solid #2ecc71;
+    border-radius: 10px;
+}
+
+.btn-gaia-donation:hover{
+    transition: 1s ease-in-out;
+    box-shadow: 2px 2px 10px #9be8bb;
+    border:1px solid #2ecc71;
+    background-color: #9be8bb;
+}
+
+.btn-gaia-donation{
+    border:1px solid #2ecc71;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: #058e3f;
+    color: white;
+}
+
+@media (max-width: 500px){
+    .input-gaia{
+        background-color: #e9ecef;
+        width: 100%;
+        padding: 5px;
+        font-size: x-small;
+        border: 1px solid;
+        border-radius: 10px;
+    }
+
+    .btn-gaia-donation{
+        border:1px solid #2ecc71;
+        border-radius: 10px;
+        padding: 10px 20px;
+        font-size: xx-small;
+        background-color: #058e3f;
+        color: white;
+    }
+}
