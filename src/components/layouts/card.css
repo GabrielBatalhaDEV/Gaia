@@ -1,0 +1,19 @@
+
+.Card-Buttons{
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+
+.Card{
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    min-width: 30%;
+    max-width: 40%;
+    margin: 10px;
+}
+
+.card-body{
+    margin-top: 10px;
+}

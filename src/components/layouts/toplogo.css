@@ -1,0 +1,28 @@
+.TopLogo{
+    height: 100%;
+    padding: 30px;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.TopLogo-Image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.GaiaLogo-Text{
+	text-transform: uppercase;
+	background: linear-gradient(to right, #054a29 0%, #5bba6f 100%);
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+    font-size:4vw;
+    text-decoration: underline;
+    text-decoration-color: #52c234;
+    
+    
+}
