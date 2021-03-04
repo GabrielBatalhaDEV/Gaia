@@ -1,9 +1,6 @@
-In the project directory, you can run:
+Um pequeno projeto com React e Bootstrap
 
-### `npm start`
+##GAIA Presenvation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+uma ONG sem fins lucrativos e colaborativa,
+que trabalha em conjunto com a população através de prráticar simples e hábitossustentaveis.
