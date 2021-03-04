@@ -1,7 +1,7 @@
 .TopLogo{
     height: 100%;
     padding: 30px;
-    background-color: #d8ebd4;
+    background-color: transparent;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -17,7 +17,7 @@
 
 .GaiaLogo-Text{
 	text-transform: uppercase;
-	background: linear-gradient(to right, #52c234 0%, #061700 100%);
+	background: linear-gradient(to right, #054a29 0%, #5bba6f 100%);
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
     font-size:4vw;

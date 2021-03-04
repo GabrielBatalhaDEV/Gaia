@@ -1,5 +1,8 @@
-body{
+#root{
     background: #d8ebd4;  /* fallback for old browsers */
     margin: 0;
     padding-bottom: 20px;
+    background-image: url("./images/background.png");
+    background-size: 25%;
+    
 }

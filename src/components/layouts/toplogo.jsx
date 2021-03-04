@@ -2,6 +2,7 @@ import React from 'react'
 
 import "./toplogo.css"
 import GaiaLogo from '../../images/Logo_Gaia_Preservation.svg'
+
 function TopLogo() {
     return (
         <div className="TopLogo">
